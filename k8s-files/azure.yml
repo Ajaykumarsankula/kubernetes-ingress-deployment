@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: azure
-          image: 885629328459.dkr.ecr.us-east-1.amazonaws.com/azure
+          image: 604213076945.dkr.ecr.us-east-1.amazonaws.com/azure
           imagePullPolicy: Always
           ports:
             - containerPort: 80
